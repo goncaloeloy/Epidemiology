@@ -1,5 +1,5 @@
 ###Definir diretório
-setwd("C:/Users/afons/Epidemiology2021/Mapa_TB")
+setwd("C:/Users/gonca/OneDrive/Documentos/R projects/Epidemiology")
 
 ###Carregar algumas bibliotecas
 pacman::p_load(
